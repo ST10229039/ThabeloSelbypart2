@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThabeloSelbypart2", "ThabeloSelbypart2.csproj", "{4275A078-E1BF-4507-9BF5-FEF3EBDC0F2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unit test", "..\unit test\unit test.csproj", "{D1C36C5D-07D2-418B-8027-7D87F090E11F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4275A078-E1BF-4507-9BF5-FEF3EBDC0F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4275A078-E1BF-4507-9BF5-FEF3EBDC0F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4275A078-E1BF-4507-9BF5-FEF3EBDC0F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4275A078-E1BF-4507-9BF5-FEF3EBDC0F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1C36C5D-07D2-418B-8027-7D87F090E11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C36C5D-07D2-418B-8027-7D87F090E11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C36C5D-07D2-418B-8027-7D87F090E11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C36C5D-07D2-418B-8027-7D87F090E11F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B55362F-079E-4812-BE65-0D80F1904385}
+	EndGlobalSection
+EndGlobal
